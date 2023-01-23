@@ -205,6 +205,12 @@ hr {
 /* *************************ipad Devices********************* */
 
 @media only screen and (min-width: 689px) and (max-width: 992px) {
+    .header-name, a{
+        padding-right: 130px;
+    }
+    .mahir-pic{
+        padding-top: 9px;
+    }
     .container {
         width: 100%;
         margin-left: 20px;
